@@ -23,7 +23,7 @@ struct LongPressGestureBootcamp: View {
                 .background(Color.gray)
             
             HStack {
-                Text("CLICK HERE")
+                Text("CLICK AND HOLD HERE")
                     .foregroundColor(.white)
                     .padding()
                     .background(Color.black)
