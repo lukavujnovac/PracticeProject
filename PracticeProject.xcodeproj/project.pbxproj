@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5F1774DE2724984000F90B3E /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1774DD2724984000F90B3E /* MagnificationGestureBootcamp.swift */; };
+		5F1774E02724A17A00F90B3E /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1774DF2724A17A00F90B3E /* RotationGestureBootcamp.swift */; };
 		5F6A00F72724801300FBEBCF /* PracticeProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6A00F62724801300FBEBCF /* PracticeProjectApp.swift */; };
 		5F6A00F92724801300FBEBCF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6A00F82724801300FBEBCF /* ContentView.swift */; };
 		5F6A00FB2724801500FBEBCF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F6A00FA2724801500FBEBCF /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		5F1774DD2724984000F90B3E /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
+		5F1774DF2724A17A00F90B3E /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		5F6A00F32724801300FBEBCF /* PracticeProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F6A00F62724801300FBEBCF /* PracticeProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeProjectApp.swift; sourceTree = "<group>"; };
 		5F6A00F82724801300FBEBCF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				5F6A00FC2724801500FBEBCF /* Preview Content */,
 				5F6A01062724805700FBEBCF /* LongPressGestureBootcamp.swift */,
 				5F1774DD2724984000F90B3E /* MagnificationGestureBootcamp.swift */,
+				5F1774DF2724A17A00F90B3E /* RotationGestureBootcamp.swift */,
 			);
 			path = PracticeProject;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				5F6A00F72724801300FBEBCF /* PracticeProjectApp.swift in Sources */,
 				5F1774DE2724984000F90B3E /* MagnificationGestureBootcamp.swift in Sources */,
 				5F6A01072724805700FBEBCF /* LongPressGestureBootcamp.swift in Sources */,
+				5F1774E02724A17A00F90B3E /* RotationGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
