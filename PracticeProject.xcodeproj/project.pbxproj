@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		5F1774DE2724984000F90B3E /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1774DD2724984000F90B3E /* MagnificationGestureBootcamp.swift */; };
 		5F1774E02724A17A00F90B3E /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1774DF2724A17A00F90B3E /* RotationGestureBootcamp.swift */; };
+		5F2CF5BA27273C1F005930D8 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F2CF5B927273C1F005930D8 /* ScrollViewReaderBootcamp.swift */; };
 		5F6A00F72724801300FBEBCF /* PracticeProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6A00F62724801300FBEBCF /* PracticeProjectApp.swift */; };
 		5F6A00F92724801300FBEBCF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6A00F82724801300FBEBCF /* ContentView.swift */; };
 		5F6A00FB2724801500FBEBCF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F6A00FA2724801500FBEBCF /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* Begin PBXFileReference section */
 		5F1774DD2724984000F90B3E /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 		5F1774DF2724A17A00F90B3E /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
+		5F2CF5B927273C1F005930D8 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		5F6A00F32724801300FBEBCF /* PracticeProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F6A00F62724801300FBEBCF /* PracticeProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeProjectApp.swift; sourceTree = "<group>"; };
 		5F6A00F82724801300FBEBCF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				5F1774DF2724A17A00F90B3E /* RotationGestureBootcamp.swift */,
 				5F7E7F6B2725D1C9004D19DD /* DragGestureBootcamp.swift */,
 				5F7E7F6D2725D625004D19DD /* DragGestureBootcamp2.swift */,
+				5F2CF5B927273C1F005930D8 /* ScrollViewReaderBootcamp.swift */,
 			);
 			path = PracticeProject;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				5F7E7F6E2725D625004D19DD /* DragGestureBootcamp2.swift in Sources */,
 				5F7E7F6C2725D1C9004D19DD /* DragGestureBootcamp.swift in Sources */,
 				5F6A00F92724801300FBEBCF /* ContentView.swift in Sources */,
+				5F2CF5BA27273C1F005930D8 /* ScrollViewReaderBootcamp.swift in Sources */,
 				5F6A00F72724801300FBEBCF /* PracticeProjectApp.swift in Sources */,
 				5F1774DE2724984000F90B3E /* MagnificationGestureBootcamp.swift in Sources */,
 				5F6A01072724805700FBEBCF /* LongPressGestureBootcamp.swift in Sources */,
