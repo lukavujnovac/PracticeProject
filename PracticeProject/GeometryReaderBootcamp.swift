@@ -28,10 +28,10 @@ struct GeometryReaderBootcamp: View {
                     }
                     .frame(width: 300, height: 250)
                     .padding()
-                }
+                } 
             }
         }
-        
+
         
         
         

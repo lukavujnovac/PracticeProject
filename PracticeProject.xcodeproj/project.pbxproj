@@ -17,6 +17,7 @@
 		5F6A01072724805700FBEBCF /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6A01062724805700FBEBCF /* LongPressGestureBootcamp.swift */; };
 		5F7E7F6C2725D1C9004D19DD /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7E7F6B2725D1C9004D19DD /* DragGestureBootcamp.swift */; };
 		5F7E7F6E2725D625004D19DD /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7E7F6D2725D625004D19DD /* DragGestureBootcamp2.swift */; };
+		5FFAAA44272C5BFE00FB4780 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FFAAA43272C5BFE00FB4780 /* MaskBootcamp.swift */; };
 		5FFD4DA7272B1EA000A47178 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FFD4DA6272B1EA000A47178 /* GeometryReaderBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +33,7 @@
 		5F6A01062724805700FBEBCF /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		5F7E7F6B2725D1C9004D19DD /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		5F7E7F6D2725D625004D19DD /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
+		5FFAAA43272C5BFE00FB4780 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 		5FFD4DA6272B1EA000A47178 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -76,6 +78,7 @@
 				5F7E7F6D2725D625004D19DD /* DragGestureBootcamp2.swift */,
 				5F2CF5B927273C1F005930D8 /* ScrollViewReaderBootcamp.swift */,
 				5FFD4DA6272B1EA000A47178 /* GeometryReaderBootcamp.swift */,
+				5FFAAA43272C5BFE00FB4780 /* MaskBootcamp.swift */,
 			);
 			path = PracticeProject;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5FFAAA44272C5BFE00FB4780 /* MaskBootcamp.swift in Sources */,
 				5F7E7F6E2725D625004D19DD /* DragGestureBootcamp2.swift in Sources */,
 				5F7E7F6C2725D1C9004D19DD /* DragGestureBootcamp.swift in Sources */,
 				5F6A00F92724801300FBEBCF /* ContentView.swift in Sources */,
