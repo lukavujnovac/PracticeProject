@@ -58,7 +58,7 @@ struct LocalNotificationBootcamp: View {
             }
             
             Button("Schedule Notification") { 
-                NotificationManager.instance.scheduleNotifications()
+//                NotificationManager.instance.scheduleNotifications()
             }
         }.onAppear { 
             UIApplication.shared.applicationIconBadgeNumber = 0
